@@ -43,6 +43,28 @@ DOMAIN=http://localhost:8888
 
 Replace `my-stripe-secret-key` with your Stripe test or live key. Substitute `http://localhost:8888` for your local (or live) shop URL.
 
+## Manage products and shop settings
+Products, shipping rates and shop settings are defined in JSON files located in `/assets`, as shown below:
+
+```
+├── assets/
+│   └── json/
+│       ├── products.json
+│       ├── shipping_rates.json
+│       └── shop.json
+```
+All relevant details for products you wish to sell are defined in `products.json`. I've retained the original products as examples to help you get started. The product detail fields should be mostly self-explanatory. To prevent PHP errors, be sure to only modify the value in JSON's attribute-value pairs:
+
+```
+"id": "3",
+        "category": "accessory",
+        "status": "new",
+        "inventory": 0,
+        "name": "Upcycled pilot's bag",
+...
+```
+In the above example, the attribute is "category" and the corresponding value is "accessory". The same applies to the attribute-value pairs in `shipping_rates.json` and `shop.json`. These may of course be modified or extended by changing the associated PHP code.
+
 ## Stripe checkout
 Stripe's [Node.js library for the Stripe API](https://github.com/stripe/stripe-node) is used to handle payment processing. At checkout time, `create-session.php` creates a Stripe object with `\Stripe\Stripe::setApiKey($_ENV['STRIPE_SECRET_KEY'])`. The basket items are enumerated and a checkout session is created with shipping options, payment methods and a success or failure callback URL. For full details see Stripe's [checkout session documentation](https://stripe.com/docs/api/checkout/sessions/).
 
