@@ -5,7 +5,7 @@ I needed a simple, fast, responsive, self-hosted commerce solution to sell a fea
 After successfully running this side business for several years, I decided to sunset the physical product and open source the software project. This repo is the end result. It's worked more-or-less flawlessly for me and done all that I've asked of it.
 
 ## Getting started
-After cloning this repository, the PHP and JavaScript dependencies will need to be installed by using their associated package managers.
+Begin by cloning this repository, then install the PHP and JavaScript dependencies by using their associated package managers.
 
 ### Install PHP dependencies
 
@@ -70,6 +70,8 @@ Stripe's [Node.js library for the Stripe API](https://github.com/stripe/stripe-n
 
 I used the [PM2](https://pm2.keymetrics.io/) daemon process manager to keep Stripe's Node.js backend online 24/7. Over many years of operation it never missed a beat.
 
-## Hosting requirments
-My commerce site ran reliably on a Linode 1GB Nanode server and required almost zero maintenance, apart from periodically updating shop settings and inventories. Your hosting needs may differ.
+Naturally, other payment processing solutions are available but I found Stripe fairly easy to integrate.
+
+## Hosting requirements
+My commerce site ran reliably on a Linode 1GB Nanode shared server and required almost zero maintenance, apart from periodically updating shop settings and inventories. Your hosting needs may differ.
 
