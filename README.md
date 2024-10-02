@@ -1,10 +1,8 @@
-# (Really) Simple Commerce 🛒
+# (Really) Simple Commerce 🛍️
 
 I needed a simple, fast, responsive, self-hosted commerce solution to sell a featured product plus a few accessories. The existing commerce projects I found didn't fit my requirements, so created my own. Rather than rely on a database backend, all relevant settings (shop, product, shipping and inventory) are managed with JSON files. Stripe is used as the payment processor. 
 
-After running this side business successfully for several years, I decided to sunset it and open source the software project. This repo is the end result. It's worked more-or-less flawlessly and met my needs.
-
-If you find this project useful for your own self-hosted shop, please consider sponsoring my work.
+After successfully running this side business for several years, I decided to sunset the physical product and open source the software project. This repo is the end result. It's worked more-or-less flawlessly for me and done all that I've asked of it.
 
 ## Getting started
 After cloning this repository, the PHP and JavaScript dependencies will need to be installed by using their associated package managers.
@@ -51,5 +49,5 @@ Stripe's [Node.js library for the Stripe API](https://github.com/stripe/stripe-n
 I used the [PM2](https://pm2.keymetrics.io/) daemon process manager to keep Stripe's Node.js backend online 24/7. Over many years of operation it never missed a beat.
 
 ## Hosting requirments
-My commerce site was not too heavily trafficked, so the entire stack ran reliably on a Linode 1GB RAM Nanode server. Your mileage may vary.
+My commerce site ran reliably on a Linode 1GB Nanode server and required almost zero maintenance, apart from periodically updating shop settings and inventories. Your hosting needs may differ.
 
