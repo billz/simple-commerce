@@ -1,0 +1,49 @@
+User-agent: AhrefsBot
+User-agent: aranhabot
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexBot/3.0
+User-agent: Baidu
+User-agent: Baiduspider
+User-agent: baiduspider
+User-agent: BaiduSpider
+User-agent: Baiduspider/2.0
+User-agent: Baiduspider+
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: HTTP Banner Detection 
+User-agent: NetSystemsResearch
+User-agent: HTTrack
+User-agent: Nimbostratus
+User-agent: Nimbostratus-Bot
+User-agent: Nmap
+User-agent: Nmap Scripting Engine
+User-agent: PetalBot
+User-agent: PECL::HTTP
+User-agent: PyCurl
+User-agent: python-requests
+User-agent: Python-urllib
+User-agent: Semrush
+User-agent: SemrushBot
+User-agent: Shodan
+User-agent: Sucuri
+User-agent: sysscan
+User-agent: WinHTTrack
+User-agent: x09Mozilla
+User-agent: x22Mozilla
+User-agent: zgrab
+User-agent: Mozilla/5.0 zgrab/0.x
+User-agent: CensysInspect
+User-agent: CensysInspect/1.1
+User-agent: Go-http-client
+User-agent: libwww-perl
+User-agent: DNSResearchBot
+User-agent: CATExplorador
+User-agent: Pandalytics
+Disallow: /
+
+User-agent: *
+Disallow: /user/
+Disallow: /vendor/
+Disallow: /api/
+Disallow: /.well-known/

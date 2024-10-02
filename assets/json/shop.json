@@ -1,0 +1,21 @@
+{
+  "Shop": {
+    "name": "AirBuddy",
+    "scheme": "http",
+    "url": "localhost:8888/simple-commerce",
+    "description": "Airbuddy.io",
+    "brand_text": "Your partner in the air",
+    "currency": "EUR",
+    "currency_symbol": "€",
+    "free_shipping": 12500,
+    "shopwide_notice": {
+        "active": false,
+        "message": "Orders placed after 20 August will ship in mid-September 2024."
+    },
+    "pages": [
+      "order.php",
+      "gear.php",
+      "detail.php"
+    ]
+  }
+}

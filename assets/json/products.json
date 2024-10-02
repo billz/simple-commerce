@@ -1,0 +1,151 @@
+{
+  "Products": {
+    "AB-CHASECAM": {
+        "id": "1",
+        "category": "main",
+        "status": "",
+        "inventory": 0,
+        "name": "AirBuddy™ Pro",
+        "name_ext": "AirBuddy™ Pro chase camera system",
+        "caption": [
+          "AirBuddy™ ships ready to fly",
+          "Capture stunning hands-free video",
+          "Sets up quickly and weighs only 99g"
+        ],
+        "description": "The AirBuddy™ Pro chase camera system ships with everything you need to start capturing great video from your flights. Included are the extendable camera mount with air brake, 1 meter elastic bridle, quick connector with safety release, 5 meters of Type III 550 paracord and a sticker. Simply attach your action camera and hit the skies!",
+        "tech_details": "Main body: Carbon fiber, CNC aluminum, nylon & Cordura®<br />Line: Type III 550 paracord, 3mm elastic, titanium, stainless steel & aluminum mini-carabiner<br />Main body weight: 56g<br />Line weight: 43g<br />Combined weight: 99g (3.5 oz)<br />Length (extended): 64.5cm (25\")<br />Length (folded): 25.5cm (10\")",
+        "og_title": "The world's lightest chase camera system for paragliders.",
+        "og_description": "AirBuddy is the ultimate compact, featherweight carbon fiber follow cam for human-powered airsports. At just 99g, AirBuddy is practically weightless in your flying kit.",
+        "og_image": "assets/images/airbuddy-000097.jpg",
+        "local_img": [
+          "assets/images/airbuddy-175217.jpg",
+          "assets/images/airbuddy-083197.jpg",
+          "assets/images/airbuddy-198264.jpg"
+        ],
+        "remote_img": "https://i.imgur.com/qCKUYZP.jpg",
+        "shop_page": "order.php",
+        "unit_amount": 9500,
+        "discount_amount": 8500,
+        "promo": true,
+        "max_quantity": 10
+    },
+    "AB-RESCUE": {
+        "id": "2",
+        "category": "accessory",
+        "status": "new",
+        "inventory": 0,
+        "name": "Rescue essentials kit",
+        "name_ext": "Rescue essentials kit",
+        "caption": [
+          "Packs into a compact Skytex™ stuff sack",
+          "Essential items to survive a tree incident",
+          "Attaches securely to a loop in your harness pocket",
+          "Lifesaving potential in a small, top-quality package"
+        ],
+        "description": "Our kit is made up of carefully selected emergency equipment for paragliders to survive a collision with a tree, cable or other obstacle. It's important to remember that these incidents do not only happen to others! Even experienced pilots may find themselves in a situation where help is required. Developed with input from rescue professionals and IFMGA mountain guides, our essentials help prevent a bad situation from becoming much worse. <br /><br/>Strongly recommended by the FFVL, PGHM and civil security in many countries. Free shipping with two or more kits. Volume discounts for clubs and schools.<br><br>",
+        "short_desc": "A super compact, modern and comprehensive survival/rescue kit packed into an ultralight Skytex™ stuff sack. You won't find these top-quality, carefully selected essentials at a better price.",
+        "tech_details": "These tools are designed to assist the pilot with escaping entanglement, treating injuries and avoiding a serious secondary accident while waiting for help to arrive. Equipment is also included to assist in raising a rescuer's rope, a whistle to aid in signaling and a survival blanket to temporarily ward off hypothermia and/or protect against sun exposure.<br><br>- The <strong>Gerber GDC hook knife</strong> is capable of quickly and safely cutting lines and risers. Lifesaving potential in a small package, the stainless steel hook blade can be used to extricate yourself if you become entangled in your paraglider lines. Featuring a circular 6061 T6 aluminum handle with thumb grip, the knife locks into an integrated sheath when not in use. Blade specs: 5cm type 7Cr17 stainless steel. Weight: 15.4g.<br />- 180cm Dyneema® sling with a locking carabiner, used to secure yourself to the nearest solid branch or anchor point to prevent a more serious secondary fall. Made by <strong>Simond</strong> in Chamonix.<br />- A mini aluminum spool loaded with 30 meters of 0.3mm Dyneema® line, used to raise a rope from rescuers on the ground. We selected this line for its low elongation properties, light weight and a breaking strength of 120N. It's ideally suited as an ultra-compact yet strong and easily deployable emergency retrieval line.<br />- 2 x 7.5 cm square gauze pads and a 8cm x 4m elastic bandage.<br />- 2 x <strong>3M Nexcare</strong> comfort bandages.<br />- An <strong>Aqua Marine Whistle</strong>, rated at 106 decibels. Essential if no other means of communication with rescuers is available. Approved to ISO 12402 standards.<br />- A 210 x 140cm survival blanket. This has multiple uses, including adding a few precious degrees of warmth, protection from direct sun, as a rain cover or as signaling mirror to assist helicopter crews in locating you from above.<br /><br />Dimensions: approx. 13 x 9 x 6cm<br />Weight: 200g",
+        "og_title": "The world's finest rescue essentials kit for paragliders.",
+        "og_description": "A super compact, modern and comprehensive survival/rescue kit packed into an ultralight Skytex™ stuff sack.",
+        "og_image": "assets/images/rescue-kit-124137.jpg",
+        "local_img": [
+          "assets/images/rescue-kit-124137.jpg",
+          "assets/images/rescue-kit-124655.jpg",
+          "assets/images/rescue-kit-132033.jpg",
+          "assets/images/rescue-kit-124746.jpg"
+        ],
+        "shop_page": "detail.php?item_id=AB-RESCUE",
+        "remote_img": "https://i.imgur.com/5c0UHG2.jpg",
+        "unit_amount": 6500,
+        "discount_amount": 5000,
+        "promo": true,
+        "max_quantity": 10
+    },
+    "AB-STUFFSACK": { 
+        "id": "3",
+        "category": "accessory",
+        "status": "new",
+        "inventory": 0,
+        "name": "Upcycled pilot's bag",
+        "name_ext": "Upcycled pilot stuff sack & sticker",
+        "caption": [
+          "Pilot's accessory bag",
+          "Upcycled from retired gliders",
+          "Mont Blanc flight",
+          "New life for the UFO2"
+        ],
+        "description": "Insanely light and supremely useful, our stuff sacks are perfect for organizing small items at takeoff. These upcycled accessory bags are made from an AirDesigns UFO2 that was flown from many 4,000 meter summits (including Mont Blanc) and used for a successful 9,000+M hike and fly Everesting before being retired. The super static 100% Dyneema™ drawcord is rated at 730daN (7.3kN) so it can be used in a pinch to repair a piece of equipment. Includes an AirBuddy sticker. Limited quantities.",
+        "short_desc": "Made from carefully selected retired gliders, our stuff sacks are perfect for organizing small items that every pilot needs. Each one is 100% unique. Limited quantities.",
+        "tech_details": "Material: Double coated Skytex (upcycled)<br />Weight: 6g<br />Approximate volume: 1.5L<br />Drawcord strength: 7.3kN<br />Color: Various",
+        "og_title": "Pilot stuff sack made from upcycled gliders.",
+        "og_description": "Insanely light and supremely useful, our stuff sacks are made from carefully selected retired gliders.",
+        "og_image": "assets/images/stuff-sack-084808.jpg",
+        "local_img": [
+          "assets/images/stuff-sack-084808.jpg",
+          "assets/images/stuff-sack-082022.jpg",
+          "assets/images/stuff-sack-081664.jpg",
+          "assets/images/stuff-sack-081307.jpg"
+        ],
+        "remote_img": "https://i.imgur.com/U9uj0k8.jpg",
+        "shop_page": "detail.php?item_id=AB-STUFFSACK",
+        "unit_amount": 1500,
+        "discount_amount": 1500,
+        "promo": false,
+        "max_quantity": 4
+    },
+    "AB-LOGOBUFF": {
+        "id": "4",
+        "category": "clothing",
+        "status": "new",
+        "inventory": 20,
+        "name": "Pilot logo buff",
+        "name_ext": "Seamless AirBuddy™ logo buff",
+        "caption": [
+          "4-way ultra stretch, 100% seamless",
+          "A practical and stylish piece of flying kit",
+          "Functional for every flying season",
+          "Many ways to wear it"
+        ],
+        "description": "Our multifunctional logo buff provides seamless sun protection and warmth. A versatile and practical pilot accessory, it's designed for all seasons and conditions. Made with a 4-way, 100% seamless, ULTRA STRETCH fabric construction that features UPF 50 protection. Able to be worn in more than a dozen different ways, it works equally well hiking up to takeoff as it does flying at altitude.",
+        "short_desc": "Our logo buff keeps you safe from the sun with UPF 50 protection and provides warmth in flight. From takeoff to landing and at every moment in the air.",
+        "tech_details": "Material: 95% Polyester 5% Elastane<br />Weight: 33g<br />Care instructions: Machine wash<br />Color: AirBuddy™ carbon / gold",
+        "og_title": "Multifunctional 4-way stretch, 100% seamless logo neck gaiter.",
+        "og_description": "A versatile and practical pilot accessory, it's designed for all seasons and conditions.",
+        "og_image": "assets/images/logo-buff-019983.jpg",
+        "local_img": [
+          "assets/images/logo-buff-019983.jpg",
+          "assets/images/logo-buff-019501.jpg",
+          "assets/images/logo-buff-016702.jpg",
+          "assets/images/logo-buff-024193.jpg"
+        ],
+        "remote_img": "https://i.imgur.com/74T4obH.jpg",
+        "shop_page": "detail.php?item_id=AB-LOGOBUFF",
+        "unit_amount": 1800,
+        "discount_amount": 1500,
+        "promo": false,
+        "max_quantity": 10
+    },
+    "AB-WOODYSTEP": {
+        "id": "5",
+        "category": "accessory",
+        "status": "new",
+        "inventory": 2,
+        "name": "Woody step-in assist",
+        "name_ext": "Woody Pro step-in assist",
+        "caption": "Wood is good!",
+        "description": "The perfect step-in aid for pod harness users. Plastic free and made from sustainably harvested wood, it's treated with boiled linseed oil and hand-rubbed with a natural beeswax finish. Simply attach to the inside nose of your pod and slip the wood ball under the laces of your shoe. Effective, reliable and sustainable.",
+        "short_desc": "The perfect step-in aid for pod harness users. No plastic here &#151; ours is made from sustainable and hand-treated wood. Simple and proven in competiton.",
+        "tech_details": "Material: 3mm elastic, wood with natural finish<br />Weight: 6g<br />Length: 34cm",
+        "og_title": "Woody Pro step-in assist.",
+        "og_description": "The perfect step-in aid for pod harness users. Plastic free and made from sustainably harvested wood.",
+        "og_image": "assets/images/woody-stepin-001.jpg",
+        "local_img": [ "assets/images/woody-stepin-001.jpg" ],
+        "shop_page": "detail.php?item_id=AB-WOODYSTEP",
+        "remote_img": "https://i.imgur.com/SQXCw4G.jpg",
+        "unit_amount": 1200,
+        "discount_amount": 1000,
+        "promo": false,
+        "max_quantity": 5
+    }
+  }
+}
