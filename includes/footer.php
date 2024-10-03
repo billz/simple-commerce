@@ -37,6 +37,10 @@
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
                     &copy; Copyright <?php echo date("Y"); ?> <?php echo $_SESSION['shop']['name']; ?>. All Rights Reserved.
                 </p>
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
+                    Powered by <a href="https://github.com/billz/simple-commerce">Simple Commerce</a>.
+                </p>
+                </p>
 
             </div>
         </div>
