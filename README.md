@@ -1,6 +1,6 @@
 # (Really) Simple Commerce 🛍️
 
-I needed a simple, fast, responsive, self-hosted commerce solution to sell a featured product plus a few accessories. The existing commerce projects I found didn't fit my requirements, so created my own. Rather than rely on a database backend, all relevant settings (shop, product, shipping and inventory) are managed with JSON files. Stripe is used as the payment processor. 
+I needed a simple, fast, responsive, self-hosted commerce solution to sell a featured product plus a few accessories. The existing commerce projects I found didn't fit my requirements, so I created my own. Rather than rely on a database backend, all relevant settings (shop, product, shipping and inventory) are instead managed with JSON files. Stripe is used as the payment processor. The shop is still operational, which now serves as a [live demo](https://airbuddy.io/).
 
 After successfully running this side business for several years, I decided to sunset the physical product and open source the software project. This repo is the end result. It's worked more-or-less flawlessly for me and done all that I've asked of it.
 
